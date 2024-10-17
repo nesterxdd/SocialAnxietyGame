@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e6040a04e01b040b5ac23c5be5bb95, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  buttonName: Breathing
+  header: Breathing Exercises
+  info: "I'll find a quiet spot then close my eyes and start thinking about my breath,
+    taking slow, deep breaths in through my nose and out through my mouth. \n\nNext,
+    I'll notice things around me, like the feeling of my feet on the ground, the
+    sounds I hear, or the things I can see. I'll remember that I don't have to stop
+    my anxiety all at once, focusing on one breath at a time and trusting that I'll
+    start to feel better bit by bit."

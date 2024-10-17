@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Bill
+  m_EditorClassIdentifier: 
+  npcName: Bill
+  conversationType: 1
+  completed: 0
+  dialogue: []
+  opening: 'Hey there, Im waiting for costume competition
+
+'
+  choices:
+  - Cool!
+  - When?
+  responses:
+  - Yes I can't wait. There are so many cool cosplays here today!
+  - It is on in a hour! At the main stage at the other side of the building.
+  ending: Have fun
+  onComplete: Im still waiting

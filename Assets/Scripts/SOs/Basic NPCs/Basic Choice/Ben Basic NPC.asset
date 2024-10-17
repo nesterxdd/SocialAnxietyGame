@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Ben Basic NPC
+  m_EditorClassIdentifier: 
+  npcName: Ben
+  conversationType: 1
+  completed: 0
+  dialogue: []
+  opening: Hey there! How's it going?
+  choices:
+  - Uh, okay, I guess.
+  responses:
+  - Just okay? Anything on your mind?
+  ending: I'm fine, thanks.
+  onComplete: I hope I didn't come off as too standoffish. Small talk always makes
+    me anxious.

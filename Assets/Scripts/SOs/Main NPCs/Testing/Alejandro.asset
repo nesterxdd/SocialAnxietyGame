@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: Alejandro
+  m_EditorClassIdentifier: 
+  npcName: Alejandro
+  completed: 1
+  journalDescription: Go meet your best friend. He is waiting by the entrance.
+  opening: Oh hello there big man how are you doing?
+  playerIntros:
+  - Im doing pretty good
+  - I AM SO EXCITED!
+  introResponses:
+  - That's good to hear, I can't wait for today it has been so long!
+  - Hell yea bruv it is going to be epic!
+  mainDialogue: So anyways the Rock is meant to be showing up today and thats gonna
+    be awesome. We should go get an autograph with him.
+  choiceDialogue: Will you come with me? The crowd will be pretty loud, everyone
+    is hear to see the Rock.
+  playerResponses:
+  - I am not sure..
+  - I'll think about it
+  npcResponses:
+  - Good to hear!
+  - Thats ok, there is no rush!
+  goodbye: Ok see you around!
+  onComplete: Today is going to be so fun, I can't wait!

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: Sean the merch man 1
+  m_EditorClassIdentifier: 
+  npcName: Merch Man
+  completed: 0
+  journalDescription: Find where the beserk manga is being sold
+  opening: HI there
+  playerIntros:
+  - Hi
+  - Hey there
+  introResponses:
+  - "\tHow are you"
+  - You good?
+  mainDialogue: So i have manga
+  choiceDialogue: What manga do you want?
+  playerResponses:
+  - uhh..Hi *would you have the first 3 volumes of the beserk manga?
+  - Beserk manga please...first 3
+  npcResponses:
+  - Sure, Here you go
+  - No problem, Here
+  goodbye: See ys
+  onComplete: There are some cool things you can check out like the pokemon cards
+    nearby have fun cas!

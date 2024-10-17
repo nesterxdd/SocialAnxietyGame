@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Sean Basic NPC
+  m_EditorClassIdentifier: 
+  npcName: Sean
+  conversationType: 1
+  completed: 0
+  dialogue: []
+  opening: You seem off. Everything okay?
+  choices:
+  - Dealing with anxiety
+  - Just a bit.
+  responses:
+  - I'm sorry to hear that. Remember, it's okay to not be okay sometimes. I'm here
+    if you need to talk.
+  - Gotcha. Take your time. I'm here whenever you want to chat or hang out.
+  ending: Thanks for listening.
+  onComplete: Good to know someone here is supportive.

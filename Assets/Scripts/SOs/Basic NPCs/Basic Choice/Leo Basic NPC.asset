@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Leo Basic NPC
+  m_EditorClassIdentifier: 
+  npcName: Leo
+  conversationType: 1
+  completed: 0
+  dialogue: []
+  opening: Hey there! Excited for the event?
+  choices:
+  - I'm not interested, sorry.
+  responses:
+  - Oh, come on! It's going to be amazing. You don't want to miss out!
+  ending: Thanks for the invite, but no.
+  onComplete: Persistent about the event. Not really my scene, but appreciate the
+    enthusiasm.

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  npcName: Martha
+  completed: 1
+  journalDescription: Go meet your friend in the crowd by the Main Stage before the
+    panel begins.
+  opening: Hey, you finally came
+  playerIntros:
+  - Today ruled!
+  - Today sucked
+  introResponses:
+  - It was amazing
+  - I was so bored
+  mainDialogue: "So as you know in a convention there\xB4s always a winner with the
+    best cosplay"
+  choiceDialogue: Do you wanna know who was the winner of the event?
+  playerResponses:
+  - Of course!
+  - Nah
+  npcResponses:
+  - Awesome, the winner was the cosplay of tanjiro Kamado of kimetsu No yaiba
+  - "Oh ok, that\xB4s fine"
+  goodbye: "Congratulations, you complete everything, hopefully you learned something
+    of the social anxiety and how to control it, if not I don\xB4t know what where
+    you doing all this time jajaja, See you!!"
+  onComplete: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: Blake the goku mascot
+  m_EditorClassIdentifier: 
+  npcName: Blake the goku mascot
+  completed: 0
+  journalDescription: 
+  opening: 'What '
+  playerIntros:
+  - Uhh
+  introResponses: []
+  mainDialogue: Go awway kid
+  choiceDialogue: Thats mean, what did i do?
+  playerResponses: []
+  npcResponses: []
+  goodbye: Ugh
+  onComplete: Ugh shoo

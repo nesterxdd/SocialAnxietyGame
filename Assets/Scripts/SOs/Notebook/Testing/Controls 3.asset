@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e6040a04e01b040b5ac23c5be5bb95, type: 3}
+  m_Name: Controls 3
+  m_EditorClassIdentifier: 
+  buttonName: Fitness
+  header: Dogs and Physical Fitness
+  info: 'Having a dog is a great motivator to stay active. Dogs love their walks,
+    and having a furry exercise buddy can make daily strolls much more enjoyable.
+    Whether it''s a quick walk around the block or a hike through the woods, dogs
+    ensure we get our daily dose of exercise.
+
+    
+
+    Playing fetch, running
+    in the park, or even just chasing your dog around the yard can be a fun way to
+    stay fit.'

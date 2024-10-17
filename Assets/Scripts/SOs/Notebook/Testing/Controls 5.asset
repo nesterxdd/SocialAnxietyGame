@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e6040a04e01b040b5ac23c5be5bb95, type: 3}
+  m_Name: Controls 5
+  m_EditorClassIdentifier: 
+  buttonName: Snuggles
+  header: The Snuggles of Dogs
+  info: 'There''s nothing quite like snuggling up with a dog. Their warm, soft fur
+    and gentle breathing can turn any couch or bed into the coziest spot on earth.
+    Dogs love to cuddle, and their affectionate nature makes them perfect snuggle
+    buddies.
+
+    
+
+    Whether it''s a chilly winter evening or a lazy Sunday
+    morning, dogs are always up for some quality cuddle time. '

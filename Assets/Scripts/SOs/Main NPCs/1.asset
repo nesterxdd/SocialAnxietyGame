@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  npcName: John
+  completed: 1
+  journalDescription: Go and meet your new best friend how is waiting you in the
+    entrance
+  opening: Welcome to the anime convention
+  playerIntros:
+  - How are you?
+  - Heyyyy
+  introResponses:
+  - Fine
+  - "I\xB4m bored"
+  mainDialogue: You are going to see people with masks or cosplays of anime characters
+    and meet a lot of people
+  choiceDialogue: "Isn\xB4t it exciting?"
+  playerResponses:
+  - Of course!!!
+  - Not really
+  npcResponses:
+  - "That\xB4s the attitude"
+  - Oh I see, give it a try, maybe you enjoy it
+  goodbye: See you around
+  onComplete: 

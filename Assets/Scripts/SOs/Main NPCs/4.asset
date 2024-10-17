@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  npcName: Merch Seller
+  completed: 1
+  journalDescription: Go buy some overlord merch from the Overlord Merch stall.
+  opening: Hi welcome
+  playerIntros:
+  - Hi there
+  - Hows things?
+  introResponses:
+  - Good
+  - Good thanks
+  mainDialogue: I Have figurines, manga and body pillows
+  choiceDialogue: So what are you looking for?
+  playerResponses:
+  - Figurines please
+  - Figures of albedo
+  npcResponses:
+  - Sure thing here you go!
+  - No problem, Here
+  goodbye: See you later, Check out the Goku mascot giving autographs
+  onComplete: Check out the Goku mascot giving autographs

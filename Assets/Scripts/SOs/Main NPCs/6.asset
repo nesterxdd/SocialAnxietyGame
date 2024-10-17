@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6246b02ffe60d945b8fc9419f9066a5, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  npcName: Gustavo
+  completed: 1
+  journalDescription: Get some food for lunch at the food court. Gustavo the Chicken
+    Guru is here!
+  opening: Hey
+  playerIntros:
+  - Hello Hello
+  - Hi
+  introResponses:
+  - I own this place
+  - How can I help you dude?
+  mainDialogue: Today we have a special going on. Chicken bucket for only 2.99, Normally
+    it goes for 40.99 but today is 2.99
+  choiceDialogue: ' You want to buy? '
+  playerResponses:
+  - Sure
+  - Of course
+  npcResponses:
+  - You are too kind
+  - "Great that\xB4s wonderfull"
+  goodbye: "Here\u2019s your chicken enjoy!"
+  onComplete: Chicken chicken baby

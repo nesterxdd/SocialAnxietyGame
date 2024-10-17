@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e6040a04e01b040b5ac23c5be5bb95, type: 3}
+  m_Name: Controls 6
+  m_EditorClassIdentifier: 
+  buttonName: Love
+  header: Dogs and Their Unconditional Love
+  info: 'Dogs have a way of loving us unconditionally. No matter what kind of day
+    we''ve had or how we look, our dogs are always there with wagging tails and happy
+    hearts. Their love isn''t based on anything superficial; it''s pure and unwavering.
+
+    
+
+    This
+    unconditional love is what makes dogs so special. They teach us about loyalty,
+    compassion, and the joy of giving and receiving love without conditions. '

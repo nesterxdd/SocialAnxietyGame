@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Camilla Basic NPC
+  m_EditorClassIdentifier: 
+  npcName: Camilla
+  conversationType: 1
+  completed: 0
+  dialogue: []
+  opening: How's your progress lately?
+  choices:
+  - Improving slowly.
+  - Struggling a bit.
+  responses:
+  - Progress is progress, no matter how small. Keep pushing forward, and you'll get
+    where you want to be
+  - That's okay. Everyone has their ups and downs. Remember, setbacks are just setups
+    for comebacks.
+  ending: Thanks for advice.
+  onComplete: Encouraging mentor.

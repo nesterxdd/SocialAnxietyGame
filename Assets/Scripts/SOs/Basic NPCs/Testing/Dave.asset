@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0505fbe52873b00468199bbe8ea3cb03, type: 3}
+  m_Name: Dave
+  m_EditorClassIdentifier: 
+  npcName: Dave
+  conversationType: 0
+  completed: 0
+  npcPath: {fileID: 5692108690909510270, guid: 05c0f4994949bae499bce7c7808bd73a, type: 3}
+  dialogue:
+  - Oh no I am so sad
+  - I am a small bit sad but you have made me a bit happier
+  - I am so happy brother yay
+  - Oh my god I love you baby
+  opening: 
+  choices: []
+  responses: []
+  ending: 
+  onComplete: 
